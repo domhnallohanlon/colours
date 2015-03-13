@@ -12,6 +12,10 @@ body {
     color: #6A1B9A;
 }
 
+.purpleBG{
+    background-color: #6A1B9A;
+}
+
 .teal{
     color: #009688;
 }
@@ -24,12 +28,22 @@ body {
     color: #FB8C00;
 }
 
+.orangeBG{
+    background-color: #FB8C00;
+}
+
 .light-green{
     color: #8BC34A;
+}
+.light-greenBG{
+    background-color: #8BC34A;
 }
 
 .red{
     color: #F44336;
+}
+.redBG{
+    background-color: #F44336;
 }
 
 .blue{
