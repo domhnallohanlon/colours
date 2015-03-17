@@ -8,6 +8,10 @@ body {
     position: relative;
 }
 
+.panel-image{
+    width:64px;
+}
+
 .purple{
     color: #6A1B9A;
 }
