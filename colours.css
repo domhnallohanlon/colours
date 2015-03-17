@@ -49,19 +49,34 @@ body {
 .blue{
     color: #2196F3;
 }
+.blueBG{
+    background-color: #2196F3;
+}
 
 .blue-grey{
     color: #607D8B;
+}
+.blue-greyBG{
+    background-color: #607D8B;
 }
 
 .white{
     color: #ffffff;
 }
+.whiteBG{
+    background-color: #ffffff;
+}
 
 .raspberry{
     color:#E91E63;
 }
+.raspberryBG{
+    background-color:#E91E63;
+}
 
 .orange{
     color:#FF9800;
+}
+.orangeBG{
+    background-color:#FF9800;
 }
