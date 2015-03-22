@@ -8,15 +8,20 @@ body {
     position: relative;
 }
 
+/*for image displayed as panel body media*/
+.panel-image{
+    width:64px;
+}
+
 .blue{
-    color: #2196F3;
+    color: #2196F3!important;
 }
 .blueBG{
     background-color: #2196F3!important;
 }
 
 .blue-grey{
-    color: #607D8B;
+    color: #607D8B!important;
 }
 .blue-greyBG{
     background-color: #607D8B!important;
@@ -24,21 +29,21 @@ body {
 
 
 .light-green{
-    color: #8BC34A;
+    color: #8BC34A!important;
 }
 .light-greenBG{
     background-color: #8BC34A!important;
 }
 
 .navy{
-    color:#1F2C39;
+    color:#1F2C39!important;
 }
 .navyBG{
     background-color:#1F2C39!important;
 }
 
 .orange{
-    color:#FF9800;
+    color:#FF9800!important;
 }
 .orangeBG{
     background-color:#FF9800!important;
@@ -46,7 +51,7 @@ body {
 
 
 .purple{
-    color: #6A1B9A;
+    color: #6A1B9A!important;
 }
 
 .purpleBG{
@@ -55,7 +60,7 @@ body {
 
 
 .raspberry{
-    color:#E91E63;
+    color:#E91E63!important;
 }
 .raspberryBG{
     background-color:#E91E63!important;
@@ -63,7 +68,7 @@ body {
 
 
 .red{
-    color: #F44336;
+    color: #F44336!important;
 }
 .redBG{
     background-color: #F44336!important;
@@ -71,7 +76,7 @@ body {
 
 
 .teal{
-    color: #009688;
+    color: #009688!important;
 }
 
 .tealBG{
@@ -80,24 +85,13 @@ body {
 
 
 .white{
-    color: #ffffff;
+    color: #ffffff!important;
 }
 .whiteBG{
     background-color: #ffffff!important;
 }
 
-/*.orange{
-    color: #FB8C00;
-}
 
-.orangeBG{
-    background-color: #FB8C00!important;
-}*/
 
-.panel-image{
-    width:64px;
-}
 
-.panel-heading-raspberry{
-    background-color:#E91E63;
-}
+
