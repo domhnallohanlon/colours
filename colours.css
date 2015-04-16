@@ -13,6 +13,14 @@ body {
     width:64px;
 }
 
+.black{
+    color: #000000!important;
+}
+.blackBG{
+    background-color: #000000!important;
+}
+
+
 .blue{
     color: #2196F3!important;
 }
@@ -20,11 +28,28 @@ body {
     background-color: #2196F3!important;
 }
 
+
 .blue-grey{
     color: #607D8B!important;
 }
 .blue-greyBG{
     background-color: #607D8B!important;
+}
+
+
+.dark-green{
+    color: #388E3C!important;
+}
+.dark-greenBG{
+    background-color: #388E3C!important;
+}
+
+
+.green{
+    color: #4CAF50!important;
+}
+.greenBG{
+    background-color: #4CAF50!important;
 }
 
 
@@ -35,12 +60,14 @@ body {
     background-color: #8BC34A!important;
 }
 
+
 .navy{
     color:#1F2C39!important;
 }
 .navyBG{
     background-color:#1F2C39!important;
 }
+
 
 .orange{
     color:#FF9800!important;
@@ -78,7 +105,6 @@ body {
 .teal{
     color: #009688!important;
 }
-
 .tealBG{
     background-color: #009688!important;
 }
