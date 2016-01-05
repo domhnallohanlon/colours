@@ -94,11 +94,11 @@ body {
 
 
 .purple{
-    color: #6A1B9A!important;
+    color: #9C27B0!important;
 }
 
 .purpleBG{
-    background-color: #6A1B9A!important;
+    background-color: #9C27B0!important;
 }
 
 
@@ -131,6 +131,13 @@ body {
 }
 .whiteBG{
     background-color: #ffffff!important;
+}
+
+.yellow{
+    color: #FFEB3B!important;
+}
+.yellowBG{
+    background-color: #FFEB3B!important;
 }
 
 
